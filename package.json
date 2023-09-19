@@ -1,0 +1,14 @@
+{
+  "name": "vue3-external-component",
+  "version": "1.0.0",
+  "description": "Loads a component from a remote url",
+  "main": "index.js",
+  "repository": "https://github.com/d4n5h/vue3-external-component.git",
+  "author": "Daniel Shlomo <dshlomo4@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue3-sfc-loader": "^0.8.4"
+  }
+}
