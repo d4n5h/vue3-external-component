@@ -1,3 +1,4 @@
+import * as Vue from 'vue'
 import { defineAsyncComponent } from "vue";
 import { loadModule } from 'vue3-sfc-loader'
 
