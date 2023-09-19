@@ -1,12 +1,27 @@
 {
   "name": "vue3-external-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Loads a component from a remote url",
   "main": "index.js",
   "repository": "https://github.com/d4n5h/vue3-external-component.git",
   "author": "Daniel Shlomo <dshlomo4@gmail.com>",
   "license": "MIT",
   "type": "module",
+  "keywords": [
+    "vue",
+    "external",
+    "remote",
+    "url",
+    "import",
+    "load",
+    "require",
+    "dynamic",
+    "component",
+    "components",
+    "vuejs",
+    "vue.js",
+    "vue3"
+  ],
   "dependencies": {
     "vue": "^3.3.4",
     "vue3-sfc-loader": "^0.8.4"
